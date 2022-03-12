@@ -1,3 +1,5 @@
+[![Tameka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tgillett84)](https://github.com/Tgillett84/github-readme-stats)
+
 # TamekaZprojects
 
 ### HI, welcome to my projects 😁👋!
