@@ -1,28 +1,4 @@
 
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
-</p>
-  <p align="center">
-    <a href="https://github.com/Tgillett84/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/Tgillett84/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/Tgillett84/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/Tgillett84/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/Tgillett84/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Tgillett84/github-readme-stats?color=0088ff" />
-    </a>
-    <br />
-    <br />
-
-
-  <p align="center">
-    <a href="#demo">View Demo</a>
-    ·
-    <a href="https://github.com/Tgillett84/github-readme-stats/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/Tgillett84/github-readme-stats/issues/new/choose">Request Feature</a>
-  </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français </a>
     ·
