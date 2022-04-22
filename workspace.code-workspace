@@ -1,0 +1,73 @@
+{
+	"folders": [
+		{
+			"name": "lesson_one",
+			"path": "..\\..\\Desktop\\python_course\\lesson_one"
+		},
+		{
+			"name": "lesson_two",
+			"path": "..\\..\\Desktop\\python_course\\lesson_two"
+		},
+		{
+			"name": "lesson_three",
+			"path": "..\\..\\Desktop\\python_course\\lesson_three"
+		},
+		{
+			"name": "lesson_four",
+			"path": "..\\..\\Desktop\\python_course\\lesson_four"
+		},
+		{
+			"name": "lesson_five",
+			"path": "..\\..\\Desktop\\python_course\\lesson_five"
+		},
+		{
+			"name": "lesson_six",
+			"path": "..\\..\\Desktop\\python_course\\lesson_six"
+		},
+		{
+			"name": "lesson_seven",
+			"path": "..\\..\\Desktop\\python_course\\lesson_seven"
+		},
+		{
+			"name": "lesson_two_handson",
+			"path": "..\\..\\Desktop\\python_course\\lesson_two_handson"
+		},
+		{
+			"name": "lesson_three_handson",
+			"path": "..\\..\\Desktop\\python_course\\lesson_three_handson"
+		},
+		{
+			"name": "lesson_four_handson",
+			"path": "..\\..\\Desktop\\python_course\\lesson_four_handson"
+		},
+		{
+			"name": "lesson_five_handson",
+			"path": "..\\..\\Desktop\\python_course\\lesson_five_handson"
+		},
+		{
+			"name": "lesson_six_handson",
+			"path": "..\\..\\Desktop\\python_course\\lesson_six_handson"
+		},
+		{
+			"name": "lesson_seven_handson",
+			"path": "..\\..\\Desktop\\python_course\\lesson_seven_handson"
+		},
+		{
+			"name": "wrangling_lesson_three",
+			"path": "..\\..\\Desktop\\python_course\\wrangling_lesson_three"
+		},
+		{
+			"name": "Python Final",
+			"path": "..\\..\\Desktop\\python_course\\Python Final"
+		},
+		{
+			"name": "python_final",
+			"path": "..\\..\\Desktop\\python_course\\python_final"
+		},
+		{
+			"name": "TamekaZprojects",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
